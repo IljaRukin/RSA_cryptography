@@ -7,6 +7,7 @@ Before you understand this two algorithms, you have to know about:
 - euclids algorithm
 - euler totient function and theorem
 - modulo arithmetic
+
 after that you will be able to understand:
 - RSA
 - Diffie Hellman
